@@ -7,6 +7,8 @@
 
 [![Linkedin](https://linkedin-github.herokuapp.com/api/render/Teodoro/Mendes/Engenheiro%20de%20Software/Ensino%20Superior%20Incompleto/dark/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F35974312%3Fs%3D400%26u%3Dd2df1d2de1ad576e24315704af1a7752f9e627a2%26v%3D4)](https://www.linkedin.com/in/teodoro-bertolozzi-mendes-027806140/)
 
+### Stack Overflow
+<a href="https://stackexchange.com/users/17393308"><img src="https://stackexchange.com/users/flair/17393308.png?theme=dark" width="208" height="58" alt="profile for Teodoro on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Teodoro on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 #### A métrica abaixo descreve o quanto me sinto confortável com algumas tecnologias, com estudo de cada uma delas em progresso constante.
 
@@ -49,9 +51,6 @@
 ## • Editores
 
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-
-## • Stack Overflow
-<a href="https://stackexchange.com/users/17393308"><img src="https://stackexchange.com/users/flair/17393308.png?theme=dark" width="208" height="58" alt="profile for Teodoro on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Teodoro on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ## • Atividades complementares
 📕 Iniciação Científica em Matemática Pura - Sobre os Pontos Visíveis do Reticulado $\mathbb{Z}^2$
