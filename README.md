@@ -1,5 +1,5 @@
 # Teodoro Mendes
-#### Engenheiro de Software há 3 anos. Atualmente trabalhando no Gringo - O Melhor Amigo do Motorista.      
+#### Engenheiro de Software há 3 anos. Atualmente trabalhando no Gringo - O Melhor Amigo do Motorista.
 
 #### Prezo por uma comunicação clara, eficiente e constante entre todas as partes da equipe e do processo de desenvolvimento. Sou muito extrovertido e criativo, aprendo rápido todo tipo de conteúdo e gosto de explorar novos caminhos.
 
@@ -8,7 +8,7 @@
 [![Linkedin](https://linkedin-github.herokuapp.com/api/render/Teodoro/Mendes/Engenheiro%20de%20Software/Ensino%20Superior%20Incompleto/dark/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F35974312%3Fs%3D400%26u%3Dd2df1d2de1ad576e24315704af1a7752f9e627a2%26v%3D4)](https://www.linkedin.com/in/teodoro-bertolozzi-mendes-027806140/)
 
 
-#### A métrica abaixo descreve o quanto me sinto confortável com algumas tecnologias, com estudo de cada uma delas em progresso constante.   
+#### A métrica abaixo descreve o quanto me sinto confortável com algumas tecnologias, com estudo de cada uma delas em progresso constante.
 
 ![Progress](https://progress-bar.dev/100/?title=Typescript%20%20%20%20%20%20)
 
@@ -21,6 +21,10 @@
 ![Progress](https://progress-bar.dev/100/?title=Postgres%20%20%20%20%20%20%20%20)
 
 ![Progress](https://progress-bar.dev/100/?title=Firebase%20%20%20%20%20%20%20%20)
+
+![Progress](https://progress-bar.dev/100/?title=Docker%20%20%20%20%20%20%20%20%20%20)
+
+![Progress](https://progress-bar.dev/100/?title=Kubernetes%20%20%20%20%20%20)
 
 ![Progress](https://progress-bar.dev/80/?title=Shell%20Script%20%20%20%20)
 
