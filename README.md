@@ -26,11 +26,11 @@
 
 ![Progress](https://progress-bar.dev/100/?title=Kubernetes%20%20%20%20%20%20)
 
-![Progress](https://progress-bar.dev/90/?title=Solidity%20%20%20%20%20%20%20%20)
-
 ![Progress](https://progress-bar.dev/80/?title=Shell%20Script%20%20%20%20)
 
 ![Progress](https://progress-bar.dev/70/?title=Pulumi%20(IaC)%20%20%20%20)
+
+![Progress](https://progress-bar.dev/60/?title=Solidity%20%20%20%20%20%20%20%20)
 
 ![Progress](https://progress-bar.dev/50/?title=Ecossistema%20web3)
 
@@ -52,6 +52,13 @@
 
 ## • Stack Overflow
 <a href="https://stackexchange.com/users/17393308"><img src="https://stackexchange.com/users/flair/17393308.png?theme=dark" width="208" height="58" alt="profile for Teodoro on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Teodoro on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+## • Atividades complementares
+📕 Iniciação Científica em Matemática Pura - Sobre os Pontos Visíveis do Reticulado $\mathbb{Z}^2$
+
+🏆 1º Lugar Hackaton Patronos - Proposta 'e-vac', uma carteira de vacinação digital.  
+🏆 2º Lugar Hackaton AB InBev - Proposta de comércio de alimentos próximos da data de vencimento.  
+
 
 ## • EstatÍsticas
 
