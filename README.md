@@ -26,11 +26,11 @@
 
 ![Progress](https://progress-bar.dev/100/?title=Kubernetes%20%20%20%20%20%20)
 
+![Progress](https://progress-bar.dev/90/?title=Solidity%20%20%20%20%20%20%20%20)
+
 ![Progress](https://progress-bar.dev/80/?title=Shell%20Script%20%20%20%20)
 
 ![Progress](https://progress-bar.dev/70/?title=Pulumi%20(IaC)%20%20%20%20)
-
-![Progress](https://progress-bar.dev/60/?title=Solidity%20%20%20%20%20%20%20%20)
 
 ![Progress](https://progress-bar.dev/50/?title=Ecossistema%20web3)
 
