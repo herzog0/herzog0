@@ -10,7 +10,7 @@
 ### Stack Overflow
 <a href="https://stackexchange.com/users/17393308"><img src="https://stackexchange.com/users/flair/17393308.png?theme=dark" width="208" height="58" alt="profile for Teodoro on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Teodoro on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
-#### The below metric describes how much comfortable I feel with some techs, with a constant progress of sutdying them.
+#### The metric below describes how much comfortable I feel with some techs, with a constant progress of sutdying them.
 
 ![Progress](https://progress-bar.dev/100/?title=Typescript%20%20%20%20%20%20)
 
