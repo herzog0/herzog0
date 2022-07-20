@@ -5,7 +5,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:teobmendes@gmail.com)](mailto:teobmendes@gmail.com)
 
-[![Linkedin](https://linkedin-github.herokuapp.com/api/render/Teodoro/Mendes/Software%20Engineer/Incomplete%20Higher%20Education/dark/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F35974312%3Fs%3D400%26u%3Dd2df1d2de1ad576e24315704af1a7752f9e627a2%26v%3D4)](https://www.linkedin.com/in/teodoro-bertolozzi-mendes-027806140/)
+[![Linkedin](https://linkedin-github.herokuapp.com/api/render/Teodoro/Mendes/Engenheiro%20de%20Software/Ensino%20Superior%20Incompleto/dark/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F35974312%3Fs%3D400%26u%3Dd2df1d2de1ad576e24315704af1a7752f9e627a2%26v%3D4)](https://www.linkedin.com/in/teodoro-bertolozzi-mendes-027806140/)
 
 ### Stack Overflow
 <a href="https://stackexchange.com/users/17393308"><img src="https://stackexchange.com/users/flair/17393308.png?theme=dark" width="208" height="58" alt="profile for Teodoro on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Teodoro on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
