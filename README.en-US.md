@@ -55,7 +55,7 @@
 ## • Complementary Activities
 📕 Scientific Initiation in Pure Mathematics - On The Visible Lattice Points Of $\mathbb{Z}^2$
 
-🏆 1º Place Hackaton Patronos - Proposal 'e-vac', a digital vaccination card. 
+🏆 1º Place Hackaton Patronos - Proposal 'e-vac', a digital vaccination card.   
 🏆 2º Lugar Hackaton AB InBev - Proposal of e-commerce of goods near their due date.
 
 
