@@ -1,4 +1,7 @@
 # Teodoro Mendes
+
+[Read this in English](https://github.com/herzog0/herzog0/blob/main/README.en-US.md)
+
 #### Engenheiro de Software há 3 anos. Atualmente trabalhando no Gringo - O Melhor Amigo do Motorista.
 
 #### Prezo por uma comunicação clara, eficiente e constante entre todas as partes da equipe e do processo de desenvolvimento. Sou muito extrovertido e criativo, aprendo rápido todo tipo de conteúdo e gosto de explorar novos caminhos.
