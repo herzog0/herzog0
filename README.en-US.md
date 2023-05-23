@@ -1,7 +1,8 @@
 # Teodoro Mendes
-#### Software Engineer for 3 years. Currently working at [Gringo - The Driver's Best Friend](https://gringo.com.vc/).
+#### Software Engineer for 4 years. Currently Head of Tech at [Mentora](https://www.mentora.gg).
 
-#### I value clear, efficient and constant communication between all parts of the team and the development process. I'm very extroverted and creative, I'm a quick learner of all kinds of contents and I like to explore new paths.
+#### I value clear, efficient and constant communication between all parts of the company and the development process. I'm very extroverted, creative and quick learner of all kinds of contents. 
+#### Programming and its ecosystem/community are my passion. 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:teobmendes@gmail.com)](mailto:teobmendes@gmail.com)
 
@@ -10,7 +11,7 @@
 ### Stack Overflow
 <a href="https://stackexchange.com/users/17393308"><img src="https://stackexchange.com/users/flair/17393308.png?theme=dark" width="208" height="58" alt="profile for Teodoro on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Teodoro on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
-#### The metric below describes how comfortable I feel with some techs, with a constant progress of sutdying them.
+### The metric below describes how *comfortable* I feel with some techs, with a constant progress of studying them.
 
 ![Progress](https://progress-bar.dev/100/?title=Typescript%20%20%20%20%20%20)
 
@@ -28,21 +29,27 @@
 
 ![Progress](https://progress-bar.dev/100/?title=Kubernetes%20%20%20%20%20%20)
 
+![Progress](https://progress-bar.dev/100/?title=ReactJS%20%20%20%20%20%20%20%20)
+
 ![Progress](https://progress-bar.dev/80/?title=Shell%20Script%20%20%20%20)
 
 ![Progress](https://progress-bar.dev/70/?title=Pulumi%20(IaC)%20%20%20%20)
 
 ![Progress](https://progress-bar.dev/60/?title=Solidity%20%20%20%20%20%20%20%20)
 
-![Progress](https://progress-bar.dev/50/?title=Ecossistema%20web3)
+![Progress](https://progress-bar.dev/50/?title=web3%20ecosytem)
 
-## • JavaScript
+## • Front-end
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+## • Back-end
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-## • Backend / Infrastructure
+## • Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+## Scripting
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## • Blockchain
 
