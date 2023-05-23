@@ -30,7 +30,7 @@
 
 ![Progress](https://progress-bar.dev/100/?title=ReactJS%20%20%20%20%20%20%20%20)
 
-![Progress](https://progress-bar.dev/80/?title=Shell%20Script%20%20%20%20)
+![Progress](https://progress-bar.dev/100/?title=Shell%20Script%20%20%20%20)
 
 ![Progress](https://progress-bar.dev/70/?title=Pulumi%20(IaC)%20%20%20%20)
 
