@@ -1,16 +1,15 @@
 # Teodoro Mendes
-#### Software Engineer for 4 years. Currently Head of Tech at [Mentora](https://www.mentora.gg).
+Software Engineer for 4 years. Currently Head of Tech at [Mentora](https://www.mentora.gg).
 
-#### Programming and its ecosystem/community are my passion. 
-#### I value clear, efficient and constant communication between all parts of the company and the development process. I'm very extroverted, creative and quick learner of all kinds of contents. 
+Programming and its ecosystem/community are my passion. 
+I value clear, efficient and constant communication between all parts of the company and the development process. I'm very extroverted, creative and quick learner of all kinds of contents. 
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:teobmendes@gmail.com)](mailto:teobmendes@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teodoro-bertolozzi-mendes-027806140/)
-
-### Stack Overflow
+ 
 <a href="https://stackexchange.com/users/17393308"><img src="https://stackexchange.com/users/flair/17393308.png?theme=dark" width="208" height="58" alt="profile for Teodoro on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Teodoro on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
-### The metric below describes how *comfortable* I feel with some techs, with a constant progress of studying them.
+The metric below describes how *comfortable* I feel with some techs, with a constant progress of studying them.
 
 ![Progress](https://progress-bar.dev/100/?title=Typescript%20%20%20%20%20%20)
 
@@ -47,7 +46,7 @@
 ## • Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## Scripting
+## • Scripting
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## • Blockchain
